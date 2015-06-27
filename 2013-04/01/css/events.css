@@ -1,0 +1,66 @@
+div.eventBox01 {
+    margin: 20px 0px 30px 0px;
+    padding: 0;
+    position: relative;
+}
+div.eventBox02 {
+    margin: 0px 0px 0px 30px;
+    padding: 0;
+    position: relative;
+}
+div.eventBox03 {
+    margin: 10px 0px 20px 0px;
+    border: 0;
+}
+div.eventGBox01 {
+    float: left;
+    margin: 5px 10px 0px 0px;
+    width: 20px;
+    height: 20px;
+    background-color: #adb2bb;
+    border: 0;
+}
+div.eventTitle01 {
+    padding: 5px 0px 0px 0px;
+    font-size: 14px;
+}
+div.eventTitle02 {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 0px 0px 0px;
+}
+div.eventTitle03 {
+    font-size: 12px;
+    padding: 5px 0px 0px 0px;
+}
+div.eventTitle04 {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 0px 0px 0px;
+}
+div.eventTitle05 {
+    font-size: 14px;
+    padding: 5px 0px 0px 0px;
+}
+div.eventLinks01 {
+    padding: 5px 0px 0px 0px;
+}
+table.eventTable01 {
+    margin: 10px 0px 20px 0px;
+    border: 0;
+    width: 100%;
+}
+td.eventCell01 {
+    vertical-align: top;
+    padding: 10px 20px 0px 0px;
+}
+.eventDate01 {
+    /* font-weight: bold; */
+}
+.eventSpeaker01 {
+    font-weight: bold;
+}
+.eventPTitle01 {
+    font-weight: bold;
+}
+

@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /images/ml.jpg
+Disallow: /images/cs.jpg
+Disallow: /images/jdemeaux.jpg
+Disallow: /images/twiehe.jpg
+

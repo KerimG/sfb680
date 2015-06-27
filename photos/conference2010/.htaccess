@@ -1,0 +1,4 @@
+AuthUserFile /afs/rrz.uni-koeln.de/vol/www/projekt/sfb680/http/docs/photos/photos_auth
+AuthType Basic
+AuthName "SFB 680 Photos"
+Require valid-user

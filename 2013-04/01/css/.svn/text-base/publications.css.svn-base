@@ -1,0 +1,35 @@
+div.publication01 {
+    margin: 1em 0em 1em 0em;
+    font-size: 85%
+}
+div.publication01Title {
+    font-weight: bold;
+    margin: 0;
+}
+div.publication01Info {
+    margin: 0.2em 0em 0.2em 0em;
+}
+span.publication01Project {
+    font-style: italic;
+}
+div.publication01Links {
+    margin: 0;
+}
+div.publication01Abstract {
+    margin: 15px 20px 20px 20px;
+    padding: 15px 15px 15px 15px;
+    background-color: #f0ece7;
+    /* border: solid 1px #7cb6f2; */
+    border: solid 1px #8595af;
+}
+div.publication01HideAbstract {
+    margin: 1em 0em 0em 0em;
+    font-size: 85%;
+}
+img.publication01Arrow {
+    margin: 0px 2px 2px 0px;
+    padding: 0;
+    border: 0;
+    vertical-align: middle;
+}
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>SFB 680 | Molecular Basis of Evolutionary Innovations</title>
+  <link rel="stylesheet" href="css/main.css" type="text/css" />
+  <meta name="description" content="SFB 680, Molecular Basis of Evolutionary Innovations"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <script id="prototype" type="text/javascript" charset="utf-8" 
+    src="scripts/prototype.js"></script>
+  <script id="randomimage" type="text/javascript" charset="utf-8" 
+    src="scripts/randomimage.js"></script>
+</head>
+<body>
+  <div id="main">
+    <div id="content">
+      <div id="mainHeader"><img id="mainHeaderText"
+        src="images/sfb680_header_text_2013-04-3.png"></img><img id="mainHeaderImageR"
+        src="images/header-01.jpg"></img></div><div 
+        id="headerLine"></div><div id="mainMenuPane"><ul 
+        id="mainMenu"><li class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/blank_01.png" /><a class="mainMenuLink01" 
+        href="index.html">home</a></li><li 
+        class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/arrow_r_01.png" /><a class="mainMenuLink01" 
+        href="people.html">people and institutions</a></li><li 
+        class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/arrow_r_01.png" /><a class="mainMenuLink01" 
+        href="projects_and_publications.html">projects and publications</a></li><li 
+        class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/arrow_r_01.png" /><a class="mainMenuLink01" 
+        href="events.html">events</a></li><li 
+        class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/arrow_r_01.png" /><a class="mainMenuLink01" 
+        href="working_with_us.html">working with us</a></li><li 
+        class="mainMenuItem01"><img class="menuItemPrefix" 
+        src="images/blank_01.png" /><a class="mainMenuLink01" 
+        href="gender.html">gender equality</a></li></ul></div><div id="contentPane">
+    <h2>Sonderforschungsbereich 680: Molekulare Basis evolutionärer Innovationen</h2>
+    <p class="titleText">Zufall und Notwendigkeit in der Evolution sind grundlegende Themen der Biologie. Adaptation ist der deterministische Teil des Evolutionsprozesses: unter natürlicher Selektion  etablieren sich in Populationen funktionale Veränderungen als Antwort auf Veränderungen in ihrer Umgebung. Wie können wir diese Dynamik von ihrer molekularen Basis her verstehen, die in Genen und ihren Wechselwirkungen liegt? Auf welche Weise finden Adaptation und funktionale Innovation inmitten der zufälligen Veränderungen molekularer Evolution statt? Wie hängen mikro-evolutionäre Anpassungen mit makro-evolutionären Unterschieden zwischen Spezies zusammen? Dies sind die zentralen Fragen, die den SFB 680 beschäftigen. </p>
+    <p class="titleText">Wir befassen uns mit Adaptation in spezifischen, wohldefinierten genetischen Netzwerken und Prozessen, für die eine kausale Verknüpfung zwischen Genomevolution und funktionaler Veränderung hergestellt werden kann. Ein Kernthema dieses SFBs ist daher die Evolution regulatorischer Wechselwirkungen zwischen Genen, die seit langem als eine wesentliche Quelle evolutionärer Innovationen gelten.</p>
+    <p class="titleText">Durch moderne Sequenzier- und Biophysik-Methoden verfügen wir über eine ungeahnte Menge molekularer Daten, um diese Fragen beantworten zu können. Insbesondere haben zeitaufgelöste Daten der Evolutionsbiologie eine faszinierende neue Rolle eröffnet: in einigen Fällen kann der zukünftige Gang der Evolution vorhersagbar werden. Dies ist von fundamentaler Bedeutung und bereitet den Weg für neue Anwendungen: Die Projekte dieses SFBs greifen nach besser angepassten Getreidesorten und besseren Grippe-Impfstoffen. </p>
+    <p class="titleText">Der SFB 680 bündelt ein einzigartiges Spektrum von Kompetenz in evolutionärer Genetik und Biophysik. Seine Projekte dienen dem gemeinsamen Ziel, die komplexe Dynamik molekularer Evolution quantitativ zu verstehen. Dies ist notwendig, um Mikro- und Makroevolution durch gemeinsame Prinzipien zu erklären und um Evolutionsbiologie zumindest für einige Systeme zu einer vorhersagenden Wissenschaft zu machen. </p>
+    <p class="titleText">Der Sonderforschungsbereich wird durch die <a href="http://www.dfg.de/en/">Deutsche Forschungsgemeinschaft (DFG)</a> gefördert.</p>
+	</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

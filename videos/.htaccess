@@ -1,0 +1,5 @@
+AuthType Basic 
+AuthUserFile /afs/rrz.uni-koeln.de/vol/www/projekt/sfb680/http/docs/videos/.videos-auth
+AuthName "SFB680Videos" 
+Require valid-user
+
