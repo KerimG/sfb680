@@ -15,9 +15,17 @@ var RandomImage = {
         "images/header-09.png", 
         "images/header-10.jpg", 
         "images/header-11.jpg", 
-        "images/header-12.jpg", 
-        "images/header-13.jpg", 
-        "images/header-15.jpg"
+        "images/header-12.jpg",
+        "images/header-13.jpg",
+        "images/header-15.jpg",
+        "images/header-17.jpg",
+        "images/header-18.jpg",
+        "images/header-19.jpg",
+        "images/header-20.jpg",
+        "images/header-21.jpg",
+        "images/header-22.jpg",
+        "images/header-23.jpg",
+        "images/header-24.jpg"
     ],
     
     IMAGE_ELEMENT_ID: "mainHeaderImageR"
